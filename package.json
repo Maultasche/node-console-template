@@ -1,0 +1,15 @@
+{
+  "name": "node-console-template",
+  "version": "1.0.0",
+  "description": "A Node.js Console application template",
+  "main": "lib/index.js",
+  "repository": "https://github.com/Maultasche/node-console-template.git",
+  "author": "Kevin Peter <kevin.peter@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "commander": "^5.1.0"
+  }
+}
