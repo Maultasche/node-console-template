@@ -6,6 +6,10 @@
   "repository": "https://github.com/Maultasche/node-console-template.git",
   "author": "Kevin Peter <kevin.peter@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "app": "node ./lib/index.js",
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^26.1.0"
   },
