@@ -50,7 +50,7 @@ describe('testing the subtract operation', () => {
     });
 
     test('subtracting zero from a negative number', () => {
-        doSubtractTest(-7, 2, -9);
+        doSubtractTest(-7, 0, -7);
     });
 
     test('subtracting two negative numbers', () => {
